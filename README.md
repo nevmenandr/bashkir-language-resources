@@ -5,6 +5,7 @@
 ## Морфология
 
 * [Морфологический анализатор](http://nevmenandr.net/cgi-bin/bashmorphweb.py)
+* [Морфологический анализатор Урало-Поволжского тюрки](http://oldturkicmorph.herokuapp.com/)
 
 ## Библиотека
 

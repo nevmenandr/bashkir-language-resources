@@ -1,4 +1,5 @@
-# bashkir-language-resources
+# Каталог языковых ресурсов башкирского
+
 Здесь собирается каталог ссылок на полезные языковые ресурсы башкирского языка
 
 ## Морфология
@@ -7,4 +8,4 @@
 
 ## Библиотека
 
-* [https://kitaptar.bashkort.org/](Kitaptar)
+* [Kitaptar](https://kitaptar.bashkort.org/)

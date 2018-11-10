@@ -12,6 +12,11 @@
 * [Морфологический анализатор](http://nevmenandr.net/cgi-bin/bashmorphweb.py)
 * [Морфологический анализатор Урало-Поволжского тюрки](http://oldturkicmorph.herokuapp.com/)
 
+## Грамматики
+
+* [Грамматика современного башкирского литературного языка, 1981](http://nevmenandr.net/scientia/bashgram.pdf)
+* [Н. К. Дмитриев Грамматика башкирского языка, 1948](http://nevmenandr.net/scientia/dmitriev_bash.pdf)
+
 ## Библиотеки
 
 * [Kitaptar](https://kitaptar.bashkort.org/)

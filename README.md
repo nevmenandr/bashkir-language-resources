@@ -17,6 +17,9 @@
 * [Грамматика современного башкирского литературного языка, 1981](http://nevmenandr.net/scientia/bashgram.pdf)
 * [Н. К. Дмитриев Грамматика башкирского языка, 1948](http://nevmenandr.net/scientia/dmitriev_bash.pdf)
 
+## Словари
+* [Glosbe](https://glosbe.com/ru/ba)
+
 ## Библиотеки
 
 * [Kitaptar](https://kitaptar.bashkort.org/)
@@ -31,5 +34,3 @@
 * [Мониторинг башкирского сегмента Интернета](https://nevmenandr.github.io/bashnet-report/)
 * [Башкирская Википедия через призму компьютерно-лингвистического анализа](https://nevmenandr.github.io/bashwiki-report/)
 
-## Словари
-* [Glosbe](https://glosbe.com/ru/ba)

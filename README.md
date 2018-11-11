@@ -22,6 +22,7 @@
 * [Kitaptar](https://kitaptar.bashkort.org/)
 * [Электронное научное издание Фольклорный архив Башкирского университета](http://nevmenandr.net/pages/bashfolk.php)
 * [Библиотека Ихтика](https://vk.com/club41267414)
+* [Книги о башкирах, тюрках и об Урале](https://vk.com/club43837739)
 
 ## Аналитические материалы
 

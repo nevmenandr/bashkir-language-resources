@@ -21,9 +21,13 @@
 
 * [Kitaptar](https://kitaptar.bashkort.org/)
 * [Электронное научное издание Фольклорный архив Башкирского университета](http://nevmenandr.net/pages/bashfolk.php)
+* [Библиотека Ихтика](https://vk.com/club41267414)
 
 ## Аналитические материалы
 
 * [Башкирский Интернет: лексика и прагматика в количественном аспекте](http://nevmenandr.net/personalia/dialogue2012.pdf)
 * [Мониторинг башкирского сегмента Интернета](https://nevmenandr.github.io/bashnet-report/)
 * [Башкирская Википедия через призму компьютерно-лингвистического анализа](https://nevmenandr.github.io/bashwiki-report/)
+
+## Словари
+* [Glosbe](https://glosbe.com/ru/ba)

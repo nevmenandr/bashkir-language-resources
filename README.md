@@ -5,7 +5,7 @@
 ## Корпуса
 
 * [Машинный фонд башкирского языка](http://mfbl2.ru/)
-* [Башкирский поэтический корпус](http://web-corpora.net/bashcorpus/)
+* [Башкирский поэтический корпус](http://web-corpora.net/bashcorpus/), ( [как пользоваться корпусом](http://nevmenandr.net/personalia/BPK.pdf) )
 
 ## Морфология
 
@@ -27,7 +27,7 @@
 * [Электронное научное издание Фольклорный архив Башкирского университета](http://nevmenandr.net/pages/bashfolk.php)
 * [Библиотека Ихтика](https://vk.com/club41267414)
 * [Книги о башкирах, тюрках и об Урале](https://vk.com/club43837739)
-* [Аудиокниги на башкирском языке, радио Ашкадар](https://cloud.mail.ru/public/2zEX/sLJXYRizF)
+* [Аудиокниги на башкирском языке, радио Ашкадар](http://ashkadarfm.ru/programms); [Структурированная зеркальная копия в Облаке@Mail.ru](https://cloud.mail.ru/public/2zEX/sLJXYRizF)
 
 ## Электронные инструменты
 

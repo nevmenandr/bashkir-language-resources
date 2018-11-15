@@ -28,8 +28,9 @@
 * [Библиотека Ихтика](https://vk.com/club41267414)
 * [Книги о башкирах, тюрках и об Урале](https://vk.com/club43837739)
 * [Аудиокниги на башкирском языке, радио Ашкадар](http://ashkadarfm.ru/programms); [Структурированная зеркальная копия в Облаке@Mail.ru](https://cloud.mail.ru/public/2zEX/sLJXYRizF)
-* [Викикитапхана] (https://wikisource.org/wiki/Main_Page/Башҡортса)
-* [Викидәреслек (китап)] (https://ba.wikibooks.org/wiki/Викидәреслек:Баш_бит)
+* [Викикитапхана](https://wikisource.org/wiki/Main_Page/Башҡортса)
+* [Викидәреслек (китап)](https://ba.wikibooks.org/wiki/Викидәреслек:Баш_бит)
+
 ## Электронные инструменты
 
 * [Калькулятор семантической близости](http://lcph.bashedu.ru/cgi-bin/vector.py)

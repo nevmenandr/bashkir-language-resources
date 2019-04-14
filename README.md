@@ -4,9 +4,10 @@
 
 ## Корпуса
 
-* [Машинный фонд башкирского языка](http://mfbl2.ru/)
+* [Национальный корпус башкирского языка](http://bashcorpus.ru/)
 * [Башкирский поэтический корпус](http://web-corpora.net/bashcorpus/), ( [как пользоваться корпусом](http://nevmenandr.net/personalia/BPK.pdf) )
 * [Текстовая коллекция](https://github.com/nevmenandr/bashkir-corpus)
+* [Машинный фонд башкирского языка](http://mfbl2.ru/)
 
 ## Морфология
 

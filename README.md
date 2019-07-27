@@ -2,7 +2,7 @@
 
 Здесь собирается каталог ссылок на полезные языковые ресурсы башкирского языка
 
-## Корпуса
+## Корпуса башкирского языка / Башҡорт теле корпустары
 
 * [Национальный корпус башкирского языка](http://bashcorpus.ru/), ( [инструкция, как искать в корпусе](https://github.com/nevmenandr/bashkir-language-resources/tree/master/corpus_instruction) )
 * [Русско-башкирский параллельный корпус](http://ruscorpora.ru/saas/search-para-ba.html)
@@ -11,24 +11,24 @@
 * [Текстовая коллекция](https://github.com/nevmenandr/bashkir-corpus)
 * [Машинный фонд башкирского языка](http://mfbl2.ru/)
 
-## Морфология
+## Морфология 
 
 * [Морфологический анализатор](http://nevmenandr.net/cgi-bin/bashmorphweb.py)
 * [Исемдәрҙең килеш менән үҙгәреше / Склонение имен существительных по падежам. (Онлайн программа)](http://kilesh.bashkort.org/)
 * [Морфологический анализатор Урало-Поволжского тюрки](http://oldturkicmorph.herokuapp.com/)
 
-## Словари
+## Словари / Һүҙлектәр
 
 * [Glosbe](https://glosbe.com/ru/ba)
 
-## Грамматики
+## Учебники грамматики / Граматика дәреслектәре
 
 * [Грамматика современного башкирского литературного языка, 1981](http://nevmenandr.net/scientia/bashgram.pdf)
 * [Н. К. Дмитриев Грамматика башкирского языка, 1948](http://nevmenandr.net/scientia/dmitriev_bash.pdf)
 * [М. Г. Усманова Грамматика башкирского языка в таблицах и схемах, 2007](https://vk.com/topic-41267414_39102213)
 
 
-## Библиотеки
+## Библиотеки / Китапханалар
 
 * [Kitaptar](https://kitaptar.bashkort.org/)
 * [Электронное научное издание Фольклорный архив Башкирского университета](http://nevmenandr.net/pages/bashfolk.php)
@@ -37,6 +37,16 @@
 * [Аудиокниги на башкирском языке, радио Ашкадар](http://ashkadarfm.ru/programms); [Структурированная зеркальная копия в Облаке@Mail.ru](https://cloud.mail.ru/public/2zEX/sLJXYRizF)
 * [Викикитапхана](https://wikisource.org/wiki/Main_Page/Башҡортса)
 * [Викидәреслек (китап)](https://ba.wikibooks.org/wiki/Викидәреслек:Баш_бит)
+
+## Читайте газеты и журналы на башкирском языке / Башҡорт телендә гәзит һәм журналдар уҡығыҙ.
+* [Башҡортостан (гәзит)](https://bash.rbsmi.ru)
+* [Йәшлек (гәзит)](http://www.ye02.ru/)
+* [Киске Өфө (гәзит)](http://kiskeufa.ru/)
+* [Ағиҙел (журнал](https://agidel.rbsmi.ru/)
+* [Аҡбуҙат (журнал)](http://akbuzatrb-ufa.ru/)
+* [Аманат (журнал)](https://amanat.rbsmi.ru/)
+* [Шоңҡар (журнал)](https://shonkar.rbsmi.ru/)
+
 
 ## Электронные инструменты
 
@@ -49,6 +59,7 @@
 * [Башкирский Интернет: лексика и прагматика в количественном аспекте](http://nevmenandr.net/personalia/dialogue2012.pdf)
 * [Мониторинг башкирского сегмента Интернета](https://nevmenandr.github.io/bashnet-report/)
 * [Башкирская Википедия через призму компьютерно-лингвистического анализа](https://nevmenandr.github.io/bashwiki-report/)
+
 
 ## Другое
 

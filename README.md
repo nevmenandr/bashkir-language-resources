@@ -38,13 +38,27 @@
 * [Викикитапхана](https://wikisource.org/wiki/Main_Page/Башҡортса)
 * [Викидәреслек (китап)](https://ba.wikibooks.org/wiki/Викидәреслек:Баш_бит)
 
+## Энциклопедии / Энциклопедиялар
+* [Башҡорт Энциклопедияһы](http://xn--80ab4e.xn----7sbacsfsccnbdnzsqis3h5a6ivbm.xn--p1ai/)
+* [Башҡорт Википедияһы](https://ba.wikipedia.org/)
+
 ## Газеты и журналы на башкирском языке / Башҡорт телендә гәзит һәм журналдар
-* [Башҡортостан (гәзит)](https://bash.rbsmi.ru)
+* [Башҡортостан (гәзит)](https://bash.rbsmi.ru) 
+* [Йәншишмә(гәзит)](https://yanshishma.rbsmi.ru/)
 * [Йәшлек (гәзит)](http://www.ye02.ru/)
 * [Киске Өфө (гәзит)](http://kiskeufa.ru/)
-* [Ағиҙел (журнал](https://agidel.rbsmi.ru/)
+* [Ашҡаҙар (гәзит)](https://ashkadar.rbsmi.ru/)
+* [Атайсал (гәзит)](https://ataysal.rbsmi.ru/)
+* [Йүрүҙән (гәзит)](https://iyryzan.rbsmi.ru/)
+* [Осҡон (гәзит)](https://oskon-gazeta.rbsmi.ru/)
+* [Салауат (гәзит)](https://salauat.rbsmi.ru/news/)
+* [Юшатыр (гәзит)](https://yshatir.rbsmi.ru/)
+* [Ағиҙел (журнал)](https://agidel.rbsmi.ru/)
 * [Аҡбуҙат (журнал)](http://akbuzatrb-ufa.ru/)
 * [Аманат (журнал)](https://amanat.rbsmi.ru/)
+* [Башҡортостан ҡыҙы (журнал)](https://bashkortostankyzy.rbsmi.ru/)
+* [Башҡортостан уҡытыусыһы (журнал)](https://uchbash.rbsmi.ru/)
+* [Ватандаш (журнал)](http://vatandash.ru/)
 * [Шоңҡар (журнал)](https://shonkar.rbsmi.ru/)
 
 

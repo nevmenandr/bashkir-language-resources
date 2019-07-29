@@ -50,6 +50,7 @@
 * [Ашҡаҙар (гәзит)](https://ashkadar.rbsmi.ru/)
 * [Атайсал (гәзит)](https://ataysal.rbsmi.ru/)
 * [Йүрүҙән (гәзит)](https://iyryzan.rbsmi.ru/)
+* [Таң (гәзит)](https://tanrb.rbsmi.ru/)
 * [Осҡон (гәзит)](https://oskon-gazeta.rbsmi.ru/)
 * [Салауат (гәзит)](https://salauat.rbsmi.ru/news/)
 * [Юшатыр (гәзит)](https://yshatir.rbsmi.ru/)
